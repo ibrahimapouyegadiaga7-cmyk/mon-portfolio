@@ -1,4 +1,37 @@
-p {background-color:  ;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+p { font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
     color: rgb(5, 5, 5);}
     html { background-color: beige;
     } 
+body { front-family: Arial sans-setif; background-color: #f5f5f5;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+h1, h2{
+    color: #004080;
+    text-align: center;
+    margin-top: 20px;
+    }
+nav {
+     background-color: #004080;
+     padding: 10px;
+    }
+nav ul {
+        display: inline;
+        margin: 15px;
+    }   
+nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }  
+section, main {
+              background-color: white;
+              margin: 20px auto;
+              max-width:1000px;
+              border-radius: 8px;
+              box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+             }                 
+ul li {
+    margin-bottom: 10px;
+}                
