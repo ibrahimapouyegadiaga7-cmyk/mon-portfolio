@@ -6,7 +6,7 @@ p { font-family: 'Open Sans', Arial, sans-serif ;
 }
 
 
-html { background-color: beige;
+html { background-color: #000000;
     } 
 body { font-family: 'Open Sans', Arial, sans-serif ; background-color: #000000;
       color: #333;
@@ -59,7 +59,7 @@ body { font-family: 'Open Sans', Arial, sans-serif ; background-color: #000000;
     background-color: #6cd0f8;
     border-radius: 15px;
     padding: 20px;
-    width: 350px;
+    width: 200px;
     text-align: center;
     color: #fff;
     box-shadow: 0, 6px,15px rgba(0, 0, 0, 0.2);
@@ -131,7 +131,7 @@ footer:hover {
 }                         
 
 img{
-    border-radius:130px;
+    border-radius:59px;
     
 }
 header nav ul {
@@ -147,6 +147,7 @@ header nav ul {
     margin-right: auto;
   background:  rgb(8, 65, 149);
   padding: 3px 3px;
-  border-radius: 100px;
+  border-radius: 300px;
+  width:122px;
  
 }
