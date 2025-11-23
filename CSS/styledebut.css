@@ -100,26 +100,26 @@ nav ul li a {
             padding:12px;
             margin:12px;
             background: linear-gradient(180deg, #1e3a5f, #0a2340, #224c80, #162d50);
-            background-size: 200% 200%;
-            transition: background-position 0.5s ea
+            transition: background-position 0.5s ease;
+           border-radius:17px;
 
+            
         }  
 section, main {
-              background-color: rgb(3, 3, 3);
-              margin: 10px auto;
-              border-radius: 8px;
-              
-              box-shadow: 0 2px 8px rgba(245, 242, 242, 0.1);
-             }     
+            background-color: rgb(3, 3, 3);
+            margin: 10px auto;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(245, 242, 242, 0.1);
+            }     
 .page { text-align: center;}           
              
 footer {background-color:rgb(238, 229, 229); color:white;
-     text-align: center;
-     padding: 1rem;
-     background: #000000;
-     font-size: 0.9rem;
-     background: linear-gradient(180deg, #1e3a5f, #0a2340, #224c80, #162d50);
-     background-size: 200% 200%;
+    text-align: center;
+    padding: 1rem;
+    background: #000000;
+    font-size: 0.9rem;
+    background: linear-gradient(180deg, #1e3a5f, #0a2340, #224c80, #162d50);
+    background-size: 200% 200%;
     transition: background-position 0.5s ease;
 }                       
 ul li {
@@ -148,12 +148,11 @@ header nav ul {
   
 }
 .photo{
-    display: flex;
-    margin-left: auto;
-    margin-right: auto;
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
   background:  rgb(8, 65, 149);
   padding: 3px 3px;
   border-radius: 300px;
-  width:122px;
- 
+  width:200px;
 }
